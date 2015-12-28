@@ -140,8 +140,8 @@ header h1.logo{
 
 header h1.logo a{
 	color: #1c1c1c;
-	text-shadow: 
-		1px 2px 0px #f8f8f8, 
+	text-shadow:
+		1px 2px 0px #f8f8f8,
 		2px 3px 0px #ccc;
 }
 
@@ -156,7 +156,7 @@ img.img-icon{
 	padding-top: 5px;
 }
 
-h1.logo a{	
+h1.logo a{
 	display: block;
 	width: 401px;
 	height: 75px;
@@ -183,7 +183,7 @@ div.featured div.carousel a.carousel-control{
 }
 
 div.featured div.carousel div.hero-unit{
-	height: 250px; 
+	height: 250px;
 	overflow: hidden;
 }
 
@@ -267,7 +267,7 @@ div.main div.working h3 img{
 	margin-right: 10px;
 }
 
-div.home li, 
+div.home li,
 div.home p,
 div.home address{
     line-height: 26px;
@@ -325,10 +325,20 @@ div.modal-body.referencie div.item{
 
 	div.main{
 		border-top: none;
+        overflow-x: hidden;
 	}
 
 	.nav-pills > li{
 		float:none;
+	}
+
+    h1.logo a{
+		display: block;
+		width: 100%;
+		height: 75px;
+		background: url(../img/logo/logo_vertical.png) center center no-repeat;
+		text-indent: -9999px;
+		margin-top: 10px;
 	}
 
 }
@@ -348,19 +358,8 @@ div.modal-body.referencie div.item{
 		float: none;
 		width: 100%;
 	}
-	
+
 	h1.logo a{
 		width: 100%;
-	}
-}
-
-@media (max-width: 768px){
-	h1.logo a{	
-		display: block;
-		width: 100%;
-		height: 75px;
-		background: url(../img/logo/logo_vertical.png) center center no-repeat;
-		text-indent: -9999px;
-		margin-top: 10px;
 	}
 }

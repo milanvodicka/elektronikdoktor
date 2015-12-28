@@ -15,7 +15,7 @@
 	</div>
 	<div class="span4">
 	    <h3>Predstavenie systému SONOS</h3>
-	    <iframe width="370" height="278" src="http://www.youtube.com/embed/4YdZ5PAmLyo?rel=0" frameborder="0" allowfullscreen></iframe>
+	    <iframe width="370" height="278" src="https://www.youtube.com/embed/-jGTcCNacQQ" frameborder="0" allowfullscreen></iframe>
 	    <br><br>
 	    <p><strong>Systém SONOS Vám predstavíme osobne v <a href="http://maps.google.sk/maps/place?q=Elektronik+Doktor&hl=sk&cid=3201972474111293227">našom showroome</a></strong>.</p>
 	    <p><a href="<?php echo site_url('kontakt'); ?>">Kontaktujte nás</a> a dohodnite si návštevu.</p>

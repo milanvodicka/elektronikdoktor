@@ -21,7 +21,7 @@
                 N 48° 10' 31.05"<br/>
                 E 17° 08' 06.81"
             </address>
-            <p><a class="btn" href="http://maps.google.com/maps?ll=48.175292,17.135225&z=14&t=h&hl=sk-SK&gl=US&mapclient=embed&q=48%C2%B010%2731.1%22N%2017%C2%B008%2706.8%22E">Mapa</a></p>
+            <p><a class="btn" href="http://maps.google.com/maps?ll=48.175292,17.135225&z=14&t=h&hl=sk-SK&gl=US&mapclient=embed&q=48%C2%B010%2731.1%22N%2017%C2%B008%2706.8%22E" target="_blank">Mapa</a></p>
         </div>
         <div class="span1"><img class="img-icon" alt="kontakt" src="<?php echo base_url(); ?>img/iconic/kontakt.png" /></div>
         <div class="span3">
